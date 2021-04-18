@@ -1,5 +1,7 @@
 # Command_Parser
 
+A small program using C and C++ languages to read user commands from the command prompt and react upon these commands, the program has the following commands: print, reverse, shuffle, shuffleStatement, upper, add, delete, random, and middle, the program is provided by error handing to check if there is, undefined command, Incorrect Data Type, or Incorrect number of arguments.
+
 •	Print command
  This command should print all the passed arguments separated by single spaces (indpendent of number of spaces/tabs between them). 
 Command Line: a1.exe print third year students are honest and clever
