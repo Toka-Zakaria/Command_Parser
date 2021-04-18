@@ -1,12 +1,12 @@
 /**********************************************************************************
- * [FILE NAME]: A1.cpp
+ * [FILE NAME]: Command.cpp
  *
  * [AUTHOR]: Toka Zakaria Mohamed Ramadan
  *
  * [DATE CREATED]: Apr 15, 2021
  *
  * [Description]:To develop a program that reads user commands from the command
- * prompt and react upon these commands.
+ *               prompt and react upon these commands.
  ***********************************************************************************/
 
 /*******************************************************************************
